@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="128" fill="#0A0E14"/>
+  <circle cx="256" cy="256" r="210" stroke="#E5B869" stroke-width="6" fill="none" opacity="0.3"/>
+  <!-- Eight-pointed Star Outline -->
+  <path d="M256 90 L288 190 L390 190 L308 250 L340 350 L256 290 L172 350 L204 250 L122 190 L224 190 Z" fill="none" stroke="#E5B869" stroke-width="6" opacity="0.4"/>
+  <!-- Center Crescent Moon -->
+  <path d="M276 170 C220 170 174 216 174 272 C174 328 220 374 276 374 C314 374 348 353 364 322 C302 334 246 286 246 224 C246 198 258 178 276 170 Z" fill="#E5B869"/>
+  <!-- Center Star -->
+  <polygon points="334,204 342,224 364,224 346,238 352,258 334,244 316,258 322,238 304,224 326,224" fill="#E5B869"/>
+</svg>
